@@ -3,14 +3,14 @@
 A Palindrome Checker built using HTML, CSS, and JavaScript that allows users to input text or numbers and check if the input is a palindrome, which reads the same forward and backward. This project is responsive and designed to work seamlessly on both desktop and mobile devices.
 
 ## Features
-Palindrome Detection: Checks if an alphanumeric string is a palindrome, considering case insensitivity and ignoring spaces, punctuation, or special characters.
-Responsive Design: The layout is fully responsive, adjusting to desktop, tablet, and mobile screen sizes.
-Interactive User Interface: Displays whether the input is a palindrome and includes dynamic error handling.
+  - Palindrome Detection: Checks if an alphanumeric string is a palindrome, considering case insensitivity and ignoring spaces, punctuation, or special characters.
+  - Responsive Design: The layout is fully responsive, adjusting to desktop, tablet, and mobile screen sizes.
+  - Interactive User Interface: Displays whether the input is a palindrome and includes dynamic error handling.
 
 ## Technologies Used
-HTML5: Provides the structure of the web page.
-CSS3: Styles the page, ensuring mobile responsiveness with media queries.
-JavaScript: Implements the palindrome-checking functionality and event handling.
+-  HTML5: Provides the structure of the web page.
+-  CSS3: Styles the page, ensuring mobile responsiveness with media queries.
+-  JavaScript: Implements the palindrome-checking functionality and event handling.
 
 ## Getting Started
 Follow the instructions below to set up the project locally:
